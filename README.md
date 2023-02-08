@@ -3,15 +3,13 @@ Comic Sans MS as a webfont
 
 Made with [Transfonter.](https://transfonter.org/)
 
-Live demo available [here.](https://comic-sans-webfont.netlify.app/)
-
 ## Use this webfont
 
 It's this simple.
 
 First, add the stylesheet for the font.
 
-`<link href="https://comic-sans-webfont.netlify.app/stylesheet.css" rel="stylesheet">`
+`<link href="https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/stylesheet.css" rel="stylesheet">`
 
 Then, add the font to your website:
 
